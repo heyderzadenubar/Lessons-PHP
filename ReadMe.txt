@@ -1,3 +1,2 @@
-E:\MAA\MAA-2023_2024\Yaz\2441a\Lessons
-
-Lessons qovlugunda yerlesir (alt qovluqlar)
+﻿Hər dəfə dərs keçildikdə bu qovluğa daxil olaraq, kontext menyudan "Gitbash Here" əmrini seçib, git pull yazmaqla keçilən
+mövzuları öz lokal kompüterinizə daxil edə bilərsiniz.
